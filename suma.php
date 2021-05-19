@@ -6,6 +6,7 @@ echo $suma;
 ?>
 <html>
 <body>
+    <p>texto alterno</P>
     <h1>prueba de viviana</h1>
     <h1>suma de numeros</h1>
    <form action="suma.php" method="post">
